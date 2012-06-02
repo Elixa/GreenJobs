@@ -10,9 +10,9 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background-image: url(images/headBackground.gif);
+		background-image: url(images/headBackground.png);
 		background-repeat: repeat-x;
-		height:150px;
+		height:196px;
 	}
 	#logo
 	{
@@ -25,6 +25,14 @@
 		background-color:#e5e6d7;
 		display:block;		
 	}
+	#centerStyle
+	{
+		border:1px #f00 solid;
+	}
+	
+	
+	
+	
 	#controlPanel
 	{
 		float:left;
@@ -79,7 +87,6 @@
 	#footer
 	{
 		height:50px;
-		background-color: #303436;	
 		padding:10px;
 	}
 

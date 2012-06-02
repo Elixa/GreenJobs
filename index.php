@@ -1,5 +1,4 @@
 <?php
 	$platform = 'web';
-	//require_once('engine/checkConfig.php');
-	
+	require_once('views/home.php');	
 ?>

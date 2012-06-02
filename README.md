@@ -1,4 +1,4 @@
 GreenJobs
 =========
 
-Proyecto competencia RHOK
+Proyecto competencia RHOK Hackaton
